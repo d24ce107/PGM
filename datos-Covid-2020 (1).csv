@@ -1,0 +1,230 @@
+﻿Genero,contacto_personas_con_fiebre,contacto_casos_cercanos,estuvo de viaje,contacto_viajeros,asintomatico,debilidad_muscular,tos_seca,dolor_cabeza,escurrimiento_nasal,dolor_garganta,diarrea,dificultad_respirar,dolor_espalda,perdida_olfato,fiebre,Clase
+M,si,trabajo,no,no,no,si,si,si,si,si,no,no,si,no,no,normal
+M,si,familia,no,no,no,si,si,si,no,si,no,si,no,no,si,neumonia
+H,no,familia,no,no,no,si,si,si,si,no,no,si,si,no,si,neumonia
+M,si,trabajo,no,no,no,no,si,si,si,no,no,no,no,no,no,normal
+H,si,trabajo,no,no,no,si,si,si,si,no,no,no,no,no,si,normal
+H,si,trabajo,no,no,no,si,no,si,si,si,no,no,no,no,no,normal
+M,no,no recuerdo,no,no,si,no,no,no,no,no,no,no,no,no,no,normal
+H,no,no recuerdo,no,no,no,no,si,si,si,no,no,no,no,no,no,normal
+H,no,no recuerdo,si,si,no,si,si,si,no,no,no,no,si,no,no,normal
+H,no,no recuerdo,no,no,si,no,no,no,no,no,no,no,no,no,no,normal
+H,si,trabajo,no,no,no,si,si,si,si,no,si,no,no,no,no,normal
+H,si,familia,no,no,no,si,si,si,si,si,no,si,no,no,si,neumonia
+H,no,no recuerdo,no,no,no,si,si,si,si,si,no,si,no,si,si,normal
+H,no,no recuerdo,no,no,no,si,no,si,no,no,no,no,no,no,no,normal
+H,no,trabajo,no,no,no,si,si,si,si,no,no,no,no,no,no,neumonia
+H,no,familia,no,no,no,si,si,si,no,no,si,no,si,no,si,neumonia
+H,si,no recuerdo,no,no,no,si,no,si,no,no,si,no,no,no,si,neumonia
+M,si,familia,no,no,no,no,si,si,no,no,si,si,no,si,si,neumonia
+M,no,no recuerdo,no,no,no,si,si,si,no,no,si,si,si,no,no,neumonia
+H,si,trabajo,no,no,no,no,no,si,no,si,no,no,no,no,no,normal
+H,no,trabajo,no,no,no,no,si,no,si,si,no,no,no,no,no,normal
+H,no,no recuerdo,si,si,no,si,si,no,no,si,si,no,si,no,si,neumonia
+M,no,no recuerdo,no,no,no,no,si,si,no,si,no,si,no,si,si,neumonia
+M,no,no recuerdo,no,no,no,si,no,no,no,no,no,si,no,si,no,neumonia
+H,no,no recuerdo,no,no,no,no,si,si,no,no,si,no,no,no,si,neumonia
+H,si,familia,si,si,no,si,no,no,no,no,si,si,si,no,no,neumonia
+H,si,familia,no,no,no,si,si,si,no,no,si,si,si,si,si,neumonia
+H,si,familia,no,no,no,si,si,si,no,no,si,no,si,no,si,neumonia
+H,no se,no recuerdo,si,si,no,no,si,si,no,si,no,no,no,si,si,neumonia
+M,no,no recuerdo,no,no,no,si,si,no,no,no,si,si,si,si,no,neumonia
+M,no se,no recuerdo,no,no,no,si,si,no,no,si,no,si,no,si,no,neumonia
+H,no,no recuerdo,no,no,no,no,no,si,no,no,si,no,no,si,si,neumonia
+M,no,no recuerdo,no,no,no,si,no,si,no,no,no,no,si,no,no,neumonia
+H,no,no recuerdo,no,no,no,no,si,no,no,no,si,no,no,si,si,neumonia
+H,si,trabajo,no,no,no,si,si,si,no,no,si,si,si,no,si,neumonia
+H,si,familia,no,no,no,si,si,si,no,no,si,no,si,si,no,neumonia
+M,si,familia,no,no,no,si,si,si,no,no,si,no,si,si,si,neumonia
+M,no,familia,no,no,si,no,no,no,no,no,no,no,no,no,no,neumonia
+H,no,no recuerdo,no,no,no,no,no,no,no,no,si,si,si,si,si,neumonia
+H,no,no recuerdo,no,no,no,si,no,si,no,no,si,no,no,si,no,neumonia
+M,no,no recuerdo,no,no,no,si,si,si,no,no,no,no,no,si,si,neumonia
+M,si,familia,no,no,no,no,si,si,no,no,si,no,no,si,si,neumonia
+M,si,familia,si,si,no,si,no,si,no,si,si,si,si,si,no,neumonia
+M,si,familia,no,no,no,si,si,si,no,no,si,no,si,no,no,neumonia
+H,si,familia,no,no,no,si,si,si,no,si,si,si,si,si,no,neumonia
+M,si,familia,si,si,si,no,no,no,no,no,no,no,no,no,no,neumonia
+H,si,no recuerdo,no,no,no,si,si,si,no,no,si,si,si,si,si,neumonia
+H,no se,no recuerdo,si,si,no,si,si,no,no,no,no,si,no,no,no,neumonia
+H,no,no recuerdo,no,no,no,no,si,si,no,no,si,no,no,si,no,neumonia
+M,si,familia,no,no,no,si,si,no,no,no,si,no,si,no,si,neumonia
+M,no,no recuerdo,si,si,no,si,no,si,no,no,si,no,no,si,no,neumonia
+M,no se,no recuerdo,si,si,no,no,no,no,no,no,no,si,no,si,no,neumonia
+H,si,no recuerdo,no,no,no,si,si,si,no,no,si,no,si,no,si,neumonia
+M,no se,no recuerdo,no,no,no,si,si,si,no,si,no,no,no,si,no,neumonia
+M,no,no recuerdo,no,no,no,no,no,no,no,si,si,no,no,no,no,neumonia
+M,no,no recuerdo,si,si,no,si,si,si,no,no,si,si,si,si,no,neumonia
+H,si,familia,si,si,no,no,si,no,no,si,no,no,no,si,no,neumonia
+H,si,familia,si,si,no,no,no,si,si,si,no,no,no,si,no,neumonia
+H,no,familia,si,si,no,si,si,si,si,si,no,no,no,si,no,neumonia
+M,no,no recuerdo,no,no,no,si,si,si,si,si,no,no,si,si,no,neumonia
+H,si,trabajo,no,no,no,si,si,si,no,no,no,no,no,no,si,normal
+M,si,trabajo,no,no,no,si,si,si,si,si,si,no,no,no,si,normal
+M,si,trabajo,no,no,no,si,no,si,si,no,no,no,si,no,no,normal
+H,si,familia,no,no,no,no,si,no,no,no,si,no,no,si,si,neumonia
+M,si,familia,no,no,no,si,si,si,no,no,si,no,si,no,si,neumonia
+H,no,no recuerdo,no,no,no,si,si,si,no,si,no,no,no,si,si,neumonia
+M,no,no recuerdo,no,no,no,no,si,no,no,no,si,no,no,si,si,neumonia
+M,no,no recuerdo,no,no,no,si,no,no,no,no,si,si,si,no,no,neumonia
+M,no se,familia,no,no,no,si,no,no,no,no,no,no,no,no,no,neumonia
+M,no,no recuerdo,no,no,no,si,si,si,no,si,no,no,si,si,si,neumonia
+M,no,no recuerdo,no,no,no,si,si,si,no,no,si,si,si,si,si,neumonia
+H,no se,familia,no,no,no,si,si,si,no,si,si,si,si,si,si,neumonia
+M,no se,familia,si,si,no,si,si,si,no,no,si,si,no,si,si,neumonia
+M,si,familia,no,no,no,si,si,si,si,si,si,si,si,si,si,neumonia
+H,no,familia,no,no,no,si,si,si,no,si,no,no,si,si,si,neumonia
+H,no,no recuerdo,no,no,no,si,si,no,no,no,no,no,no,si,si,neumonia
+M,si,familia,no,no,no,si,si,si,no,no,si,si,si,no,si,neumonia
+H,si,no recuerdo,no,no,no,si,si,si,no,no,si,no,si,si,si,neumonia
+H,no,no recuerdo,no,no,no,si,si,no,no,no,no,no,no,no,no,neumonia
+M,no,no recuerdo,no,no,no,no,si,no,no,no,si,si,no,no,no,neumonia
+H,si,familia,si,si,no,no,no,no,no,no,si,no,no,si,no,neumonia
+M,no,no recuerdo,no,no,no,si,no,si,no,no,si,no,si,si,no,neumonia
+M,si,familia,no,no,no,no,no,si,no,no,si,no,no,si,no,neumonia
+H,si,no recuerdo,si,si,no,si,si,si,no,no,si,no,si,si,si,neumonia
+M,no se,trabajo,no,no,no,si,si,si,no,no,no,si,si,si,si,neumonia
+M,si,no recuerdo,si,no,no,si,si,si,no,no,si,no,si,si,si,neumonia
+H,no,no recuerdo,si,si,no,si,si,si,no,no,no,no,no,no,no,neumonia
+H,si,familia,no,no,no,no,si,no,no,no,si,no,si,si,no,neumonia
+M,no se,familia,no,no,no,si,si,si,no,no,no,no,no,no,no,neumonia
+M,no,no recuerdo,si,si,no,si,si,si,no,si,si,no,si,si,no,neumonia
+M,si,no recuerdo,no,no,no,si,si,si,no,si,si,si,si,no,no,neumonia
+M,no,no recuerdo,no,no,no,si,si,si,no,si,no,si,no,no,si,neumonia
+M,si,no recuerdo,no,no,no,si,no,si,no,si,si,si,si,si,si,neumonia
+M,si,familia,si,si,no,si,si,si,no,si,si,si,si,si,si,neumonia
+M,si,no recuerdo,no,no,no,si,si,si,no,no,si,si,si,no,no,neumonia
+H,no se,familia,no,no,no,no,si,si,no,no,no,no,no,si,si,neumonia
+M,no se,familia,no,no,no,no,si,si,no,no,si,no,no,si,si,neumonia
+M,no se,no recuerdo,no,no,no,si,no,si,no,no,no,no,no,si,no,neumonia
+M,si,familia,si,si,no,si,si,si,no,no,si,si,si,si,si,neumonia
+M,si,familia,si,si,no,si,si,si,no,no,si,no,si,si,si,neumonia
+M,si,familia,no,no,no,si,no,si,si,si,si,si,si,no,no,neumonia
+M,no,no recuerdo,no,no,no,si,si,si,si,no,si,si,si,si,si,neumonia
+M,si,familia,si,si,no,si,si,si,no,no,si,si,si,si,no,neumonia
+H,no,no recuerdo,no,no,no,si,si,no,no,si,si,no,no,no,no,neumonia
+H,no,no recuerdo,no,no,no,si,no,si,no,no,si,no,si,no,no,neumonia
+M,no,no recuerdo,si,si,no,no,si,si,no,si,si,no,no,no,no,neumonia
+H,no,no recuerdo,no,no,no,si,si,si,no,no,si,no,si,si,no,neumonia
+M,no se,familia,no,no,no,si,si,si,si,no,si,no,no,si,no,neumonia
+H,no,familia,no,no,no,si,si,no,no,no,no,no,no,si,no,neumonia
+H,si,trabajo,si,si,no,no,no,no,no,no,no,no,no,no,si,neumonia
+H,si,familia,no,no,no,si,si,si,no,si,si,si,si,si,si,neumonia
+M,si,familia,no,no,no,si,si,no,no,no,si,no,si,si,si,neumonia
+M,si,trabajo,si,si,no,si,si,si,no,no,si,no,si,si,no,neumonia
+M,no,familia,no,no,no,no,si,si,no,si,si,si,no,no,no,neumonia
+M,si,familia,no,no,no,si,no,si,no,no,si,no,si,si,si,neumonia
+H,no se,no recuerdo,no,no,no,si,si,no,no,no,si,no,no,si,si,neumonia
+H,no se,no recuerdo,si,si,no,si,si,si,no,no,no,si,no,no,si,neumonia
+M,si,familia,no,no,no,si,no,no,no,no,si,no,si,si,no,neumonia
+M,no se,no recuerdo,no,no,no,no,si,si,no,no,no,no,no,si,si,neumonia
+M,no se,familia,no,no,no,si,si,no,no,no,no,no,no,si,no,neumonia
+M,no,no recuerdo,no,no,no,si,no,si,no,no,si,no,si,si,si,neumonia
+H,no,no recuerdo,no,no,no,si,si,si,si,si,si,si,si,si,si,neumonia
+M,si,familia,no,no,no,no,no,si,no,no,no,no,no,no,no,neumonia
+M,no,no recuerdo,no,no,no,no,si,si,si,no,no,no,no,si,no,neumonia
+M,si,trabajo,no,no,no,si,no,si,si,si,no,si,si,si,si,neumonia
+M,no,familia,no,no,no,si,si,si,no,si,no,no,si,no,no,neumonia
+M,no,no recuerdo,no,si,no,no,no,si,si,no,si,no,no,no,no,normal
+M,no,familia,no,si,no,no,si,si,no,si,no,no,no,no,no,normal
+M,no,trabajo,no,no,no,no,no,no,no,si,no,no,no,no,no,neumonia
+H,si,no recuerdo,no,no,no,si,no,si,si,si,no,no,si,si,no,normal
+H,no,trabajo,no,no,no,si,si,si,si,si,si,no,si,no,no,neumonia
+M,si,no recuerdo,no,no,no,si,si,si,si,no,si,no,no,no,si,neumonia
+M,no,familia,si,si,no,si,no,si,si,si,no,si,no,no,no,normal
+H,no,no recuerdo,no,no,no,si,si,si,si,no,no,no,no,si,no,neumonia
+M,si,no recuerdo,no,no,no,no,si,si,si,si,no,no,no,no,no,neumonia
+M,si,no recuerdo,no,no,no,no,si,si,si,no,no,no,no,no,no,normal
+H,no,familia,no,no,no,si,si,si,si,si,si,si,si,si,si,neumonia
+M,si,familia,no,no,no,no,no,si,si,no,no,si,si,no,no,normal
+M,si,no recuerdo,no,no,no,si,si,si,si,si,no,no,si,no,no,neumonia
+M,no,no recuerdo,si,si,no,no,no,si,si,si,no,no,si,no,no,neumonia
+H,no,no recuerdo,si,si,no,no,no,si,si,no,no,no,no,no,no,normal
+H,si,no recuerdo,no,no,no,si,no,no,no,si,no,si,no,no,si,neumonia
+H,no,familia,si,si,no,no,no,si,no,no,no,si,no,no,no,normal
+H,no,no recuerdo,si,si,no,no,no,si,no,si,no,no,no,no,no,normal
+M,si,trabajo,no,no,no,si,si,si,si,no,no,no,si,no,no,neumonia
+H,si,trabajo,no,no,no,si,si,si,si,si,no,no,si,no,si,neumonia
+H,si,trabajo,no,si,no,no,si,si,no,si,no,no,no,no,no,normal
+H,no,trabajo,no,no,no,si,si,si,si,si,no,no,si,no,si,normal
+M,si,familia,no,no,no,no,si,si,si,si,no,no,no,no,no,normal
+H,no,no recuerdo,no,no,no,no,si,no,si,si,no,no,si,si,si,neumonia
+M,si,trabajo,no,no,no,si,si,si,si,no,no,si,no,si,no,normal
+H,no,familia,si,si,no,no,no,si,si,si,no,no,si,no,no,normal
+M,no,trabajo,no,no,no,no,si,no,si,si,no,no,no,no,no,normal
+H,si,trabajo,no,no,si,no,no,no,no,no,no,no,no,no,no,normal
+H,no,trabajo,no,no,no,si,si,si,si,si,no,no,si,no,si,neumonia
+H,si,trabajo,no,no,no,si,si,no,si,no,no,si,si,no,no,normal
+H,no,no recuerdo,no,no,no,si,no,no,si,no,no,si,si,si,no,neumonia
+M,no,no recuerdo,no,no,no,si,no,no,si,no,no,si,si,si,no,neumonia
+H,si,familia,no,no,no,no,no,si,no,no,si,no,no,no,no,normal
+M,si,no recuerdo,no,no,no,si,no,si,no,no,no,no,si,no,no,normal
+H,si,trabajo,no,no,no,si,si,si,si,si,no,si,si,si,no,normal
+H,si,familia,no,no,no,si,si,si,si,si,no,no,si,si,no,normal
+H,no,trabajo,no,no,no,si,si,si,si,si,no,si,si,si,no,neumonia
+H,no,no recuerdo,si,si,no,si,no,si,no,no,si,no,no,no,si,normal
+M,no,trabajo,no,no,no,si,si,si,no,no,si,no,si,no,si,normal
+H,si,familia,si,si,no,no,no,no,si,no,no,no,no,no,si,neumonia
+H,si,familia,no,si,no,no,si,no,si,no,no,no,no,no,no,normal
+M,si,familia,no,no,no,si,si,si,si,si,no,no,si,no,no,neumonia
+M,si,escuela,no,no,no,no,si,no,si,si,no,no,si,no,si,neumonia
+H,no,no recuerdo,no,no,no,si,no,si,no,no,no,si,si,si,no,neumonia
+M,no,no recuerdo,no,no,no,no,si,si,si,no,no,no,no,si,no,neumonia
+H,si,no recuerdo,no,no,no,si,si,si,si,si,no,si,si,si,si,normal
+H,no,trabajo,no,si,no,si,si,si,si,si,no,no,no,no,no,normal
+H,si,familia,no,no,no,no,no,si,si,si,si,no,no,si,si,neumonia
+H,no,familia,si,si,no,si,si,no,no,si,no,no,si,no,no,neumonia
+H,si,trabajo,no,no,no,si,si,no,si,si,no,no,si,no,no,neumonia
+M,no,no recuerdo,no,no,no,si,si,si,si,si,no,si,si,no,si,normal
+M,si,no recuerdo,no,no,no,no,si,si,no,si,no,no,no,no,si,neumonia
+M,si,no recuerdo,no,no,no,si,no,si,si,si,no,no,si,no,no,neumonia
+M,no,trabajo,si,si,no,si,no,si,no,si,no,no,no,no,si,normal
+H,no,no recuerdo,no,no,no,si,no,no,si,no,no,no,no,no,no,neumonia
+M,no,no recuerdo,no,no,no,no,si,si,si,si,no,no,no,no,no,normal
+H,no,no recuerdo,no,no,no,si,no,si,si,no,si,no,no,no,no,normal
+M,no,trabajo,no,no,no,no,no,si,si,si,no,no,si,si,no,normal
+M,no,trabajo,no,no,no,si,si,si,si,si,no,si,si,no,no,normal
+M,si,familia,no,no,no,no,no,si,no,si,no,no,no,no,no,normal
+M,si,familia,si,si,no,no,si,si,si,no,no,no,si,no,no,normal
+M,si,familia,no,si,no,si,no,si,si,si,no,no,si,no,no,normal
+M,no,trabajo,si,no,no,no,no,no,no,si,no,no,si,no,no,normal
+M,si,trabajo,no,no,no,si,no,si,si,no,si,si,si,no,no,normal
+M,no,trabajo,si,si,no,no,si,si,si,si,no,no,si,si,no,normal
+M,no,familia,no,no,no,no,si,si,si,si,no,si,no,no,si,normal
+M,si,familia,no,no,no,si,si,si,si,si,no,no,si,si,no,neumonia
+M,si,familia,no,no,no,no,no,si,si,no,no,no,no,no,no,normal
+H,si,trabajo,si,si,no,si,si,si,si,si,si,no,no,si,si,normal
+M,si,trabajo,si,no,no,si,si,si,si,si,no,no,si,no,no,normal
+H,si,trabajo,no,no,no,si,si,si,si,si,no,no,si,no,no,normal
+H,no,no recuerdo,no,no,no,no,si,si,si,si,no,si,no,no,no,normal
+H,si,trabajo,si,si,no,no,si,si,si,si,no,no,no,no,no,normal
+M,no,familia,no,no,no,si,no,si,no,no,no,no,si,si,no,normal
+M,no,familia,no,no,no,no,si,si,no,si,no,no,si,no,no,normal
+H,si,trabajo,no,no,no,no,si,si,no,no,no,no,no,no,si,normal
+H,si,trabajo,no,no,no,si,no,si,si,no,no,no,si,no,no,normal
+H,si,familia,no,no,no,si,si,si,no,si,no,no,no,no,no,neumonia
+H,si,trabajo,no,no,no,si,no,si,no,no,si,no,no,no,no,normal
+H,si,trabajo,no,no,no,no,si,si,si,si,si,no,no,no,si,normal
+M,si,no recuerdo,no,no,no,si,si,si,si,si,no,no,si,no,no,normal
+M,si,trabajo,no,no,no,si,no,si,si,si,no,no,no,no,si,neumonia
+H,si,familia,no,no,no,si,si,si,si,si,no,no,si,no,no,neumonia
+H,si,trabajo,no,no,no,si,si,si,si,si,si,no,si,no,si,normal
+H,si,trabajo,no,si,no,no,no,si,no,no,no,no,no,no,no,normal
+M,no,trabajo,no,no,no,no,si,no,si,no,no,no,no,no,no,normal
+M,si,trabajo,no,no,no,si,si,si,si,si,no,no,si,no,si,normal
+M,no,no recuerdo,no,no,no,si,si,si,si,no,no,no,no,no,no,normal
+M,no,trabajo,no,no,no,si,si,si,si,si,no,no,si,no,no,normal
+H,si,trabajo,no,si,no,no,no,si,si,no,si,no,no,no,si,normal
+H,si,familia,si,no,no,si,no,si,si,si,no,no,si,si,no,neumonia
+M,si,no recuerdo,no,no,no,si,si,no,si,si,no,no,no,no,no,normal
+M,no,trabajo,no,no,no,si,si,si,si,si,si,no,si,no,no,normal
+M,si,trabajo,no,no,no,si,si,no,si,si,no,si,si,si,no,normal
+M,si,trabajo,no,no,no,no,si,si,si,si,no,no,si,no,si,normal
+M,no,no recuerdo,no,no,no,no,si,si,si,si,no,no,no,si,no,normal
+H,no,no recuerdo,no,si,no,no,no,si,no,no,si,no,no,no,si,normal
+M,si,trabajo,no,no,no,si,si,si,si,si,si,no,no,no,no,normal
+H,no,no recuerdo,no,no,no,si,si,si,si,no,no,si,si,si,no,neumonia
+M,si,no recuerdo,no,no,no,no,si,si,si,si,no,no,no,no,si,neumonia
+M,si,trabajo,no,no,no,si,si,si,si,si,no,no,si,no,no,neumonia
+M,si,familia,no,no,no,si,si,si,si,si,si,no,si,no,no,neumonia
+M,si,trabajo,no,no,no,si,no,si,no,si,no,no,si,no,no,neumonia
